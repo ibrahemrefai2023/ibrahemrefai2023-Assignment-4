@@ -4,3 +4,6 @@
 
 /.vs
 /AcademyScheduleAnalyzer/obj
+/AcademyScheduleAnalyzer/bin/Debug/net10.0
+/AcademyScheduleAnalyzer/bin/Release/net10.0
+/AcademyScheduleAnalyzer/BenchmarkDotNet.Artifacts

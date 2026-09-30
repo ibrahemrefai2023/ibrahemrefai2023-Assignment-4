@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/LeetCode/">
+    <File Path="README.md" />
+  </Folder>
+  <Folder Name="/LeetCode/images/">
+    <File Path="../../../../../Downloads/gcd-of-strings-accepted.png" />
+    <File Path="../../../../../Downloads/valid-anagram-accepted.png" />
+  </Folder>
+  <Project Path="AcademyScheduleAnalyzer/AcademyScheduleAnalyzer.csproj" />
+</Solution>
